@@ -49,7 +49,7 @@ Principais achados:
 - Implementar modelo preditivo de churn (priorizar: tipo de contrato, valor mensal, tenure, serviços adicionais)
 - Testar descontos direcionados para clientes acima de R$ 70–75/mês
 
-- ##  Tecnologias Utilizadas
+ ##  Tecnologias Utilizadas
 
 - Python  
 - Pandas  
@@ -60,7 +60,7 @@ Principais achados:
 ##  Estrutura do Projeto
 
 ```
-challengeTelecomX/
+ challengeTelecomX/
 │
 ├── notebook/
 │   └── ChallengeTelecomX.ipynb          
