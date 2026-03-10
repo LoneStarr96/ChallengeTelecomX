@@ -48,3 +48,24 @@ Principais achados:
 - Reforçar ações de onboarding nos primeiros 90 dias
 - Implementar modelo preditivo de churn (priorizar: tipo de contrato, valor mensal, tenure, serviços adicionais)
 - Testar descontos direcionados para clientes acima de R$ 70–75/mês
+
+- ##  Tecnologias Utilizadas
+
+- Python  
+- Pandas  
+- Matplotlib
+- Seaborn
+- Google Colab
+   
+##  Estrutura do Projeto
+
+```
+challengeTelecomX/
+│
+├── notebook/
+│   └── ChallengeTelecomX.ipynb          
+│
+├── TelecomX_dicionario.md
+│
+└── README.md
+```
