@@ -74,7 +74,7 @@ Principais achados:
 
 1. Clone este repositório:
    ```bash
-   git clone [https](https://github.com/LoneStarr96/ChallengeTelecomX.git)
+   git clone https://github.com/LoneStarr96/ChallengeTelecomX
 
 2. Abra o arquivo 'TelecomXparte2.ipynb', pelo Google Collab ou como preferir
 3. Altere o caminho do arquivo caso necessário 'dados = pd.read_csv('/CAMINHO/dados_tratados.csv')'
