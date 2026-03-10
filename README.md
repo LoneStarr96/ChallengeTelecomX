@@ -48,7 +48,3 @@ Principais achados:
 - Reforçar ações de onboarding nos primeiros 90 dias
 - Implementar modelo preditivo de churn (priorizar: tipo de contrato, valor mensal, tenure, serviços adicionais)
 - Testar descontos direcionados para clientes acima de R$ 70–75/mês
-
-
-Pronto para usar.  
-Salve como `README.md` na raiz do repositório.
